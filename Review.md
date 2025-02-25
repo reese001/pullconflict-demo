@@ -1,5 +1,7 @@
 # 🍕 Joe's Pizza Review
-- Rating: ⭐
-- Price: $$$$$
-- Must Try: Nothing
-- Notes: Worst overpriced pizza ever
+
+- Rating: ⭐⭐⭐⭐⭐⭐⭐⭐⭐
+- Price: Dirt Cheap
+- Must Try: BBQ Chicken Pizza (Stuffed Crust)
+- Notes: Everyone should eat here
+
